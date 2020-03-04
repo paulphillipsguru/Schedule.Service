@@ -1,0 +1,14 @@
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\bin\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.deps.json
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\bin\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.runtimeconfig.json
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\bin\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.runtimeconfig.dev.json
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\bin\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.dll
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\bin\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.pdb
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\obj\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.csprojAssemblyReference.cache
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\obj\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.csproj.CoreCompileInputs.cache
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\obj\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.AssemblyInfoInputs.cache
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\obj\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.AssemblyInfo.cs
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\obj\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.dll
+C:\Me\PNP.Services\PNP.Service.Schedule\UnitTests\PNP.Service.Schedule.UnitTests\obj\Debug\netcoreapp2.1\PNP.Service.Schedule.UnitTests.pdb

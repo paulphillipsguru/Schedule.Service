@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PNP.Service.Schedule", "PNP.Service.Schedule.csproj", "{B9792739-AFC6-4CE7-95A5-F5BD588A12D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{DFBC9BF2-8084-4DE2-93D3-79967DDA0FAD}"
+	ProjectSection(SolutionItems) = preProject
+		UserStories.yaml = UserStories.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PNP.Service.Schedule.UnitTests", "..\UnitTests\PNP.Service.Schedule.UnitTests\PNP.Service.Schedule.UnitTests.csproj", "{5C8F4AC4-D20A-4BBD-800B-9C6575B7BC16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9792739-AFC6-4CE7-95A5-F5BD588A12D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9792739-AFC6-4CE7-95A5-F5BD588A12D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9792739-AFC6-4CE7-95A5-F5BD588A12D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9792739-AFC6-4CE7-95A5-F5BD588A12D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8F4AC4-D20A-4BBD-800B-9C6575B7BC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8F4AC4-D20A-4BBD-800B-9C6575B7BC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8F4AC4-D20A-4BBD-800B-9C6575B7BC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8F4AC4-D20A-4BBD-800B-9C6575B7BC16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {894556BC-FBD0-439F-8FC0-96919AFEAFC9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+- As a User
+    - I want to find all my free time between two dates taking into account my availablity
+    - So that I find my free time
+
+- As a User
+    - I want to determine if I can schedule a task between two dates taking into account my availablity
+    - So that I confirm to my customer if I am able to book an appointment / slot
+
+- As a User
+    - I want to be book in time based on continuous blocks of time range between two dates (taking into account my availablity) and able to provide custom meta data and
+    - So that I can book out my schedule
+
+- As a User
+    - I want to book in a time based on any free slot between two dates (taking into account my availablity) and able able to provide custom meta data
+    - So that I can book out my schedule based on any free slots available
+
+- As a User
+    - I want to list all my time / slots for a particular date range
+    - So I can see what is my schedule
+
+- As a User
+    - I want to update an existning schedule
+    - So that I ammend my existng appointment
+
+- As a User
+    - I want to be able to delete an existing schedule
+    - So that I can clear my schedule
+
+- As a User
+    - I want to be notified X time before my schedule is due
+    - So I am reminded of my up coming schedule
+
